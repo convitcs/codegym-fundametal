@@ -1,0 +1,11 @@
+ls: list folder
+cd <demo>: chuyển ổ đĩa
+mkdir <demo>: tạo ổ đĩa
+touch index.html: tạo file 
+vim index.html:
+rm index.html
+rm -fr <index.html>: xóa file, thư mục
+git init
+git add <file>: them file vào staging area
+git commit : them file vào local repository
+git status: xem tình trạng
